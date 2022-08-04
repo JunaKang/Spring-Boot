@@ -19,5 +19,5 @@ public class DeleteController {
     public String getRequestParam1(@RequestParam String email){
         return "e-mail : " + email;
     }
-
+//
 }
